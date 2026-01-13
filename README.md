@@ -146,7 +146,8 @@ node modules.js
 node streams.js
 ```
 
-**Note:** Make sure port 8000 is free before running server examples.
+> [!NOTE] 
+> Make sure port 8000 is free before running server examples.
 
 ## 💡 Key Takeaways
 
